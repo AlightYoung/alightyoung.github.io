@@ -1,0 +1,1 @@
+export const env={"PUBLIC_BLOG_FOLDER":"posts","PUBLIC_PAGE_SIZE":"20"}
